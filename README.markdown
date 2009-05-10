@@ -2,7 +2,8 @@
 
 `imap2atom` provides a means to serialize an IMAP inbox as an Atom document.
 The resultant Atom feed can then be published and subscribed to or plugged
-into a query system such as [YQL](http://developer.yahoo.com/yql).
+into a query system such as [YQL](http://developer.yahoo.com/yql). For
+mailing lists, basically.
 
 ## Getting Started
 
